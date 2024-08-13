@@ -1,13 +1,12 @@
-## SIB Biodiversity Bioinformatics 2023 
+## SIB Biodiversity Bioinformatics 2024
 
 
 ## Teachers
 
 * [Natasha Glover](https://lab.dessimoz.org/people/natasha_glover)
-* [Yannis Nevers](https://lab.dessimoz.org/people/yannis_nevers)
-* [Sina Majidian](https://sinamajidian.github.io/)
+* [Stefano Pascarelli](mailto:Stefano.Pascarelli@unil.ch)
+* [Athina Gavriilidou](mailto:athina.gavriilidou@unil.ch)
 * [Christophe Dessimoz](https://lab.dessimoz.org/people/yannis_nevers)
-
 
 
 ## Learning outcomes
@@ -53,7 +52,7 @@ If you mistakenly close the browser window, you can go to the GitPod Dashboard a
 As each user has limited CPU hours, please make sure that you stop the workspace, once you finish the analysis.   
 
 
-## Schedule Aug 30 2023 
+## Schedule Aug 26 2024 
 
 
 <table>
