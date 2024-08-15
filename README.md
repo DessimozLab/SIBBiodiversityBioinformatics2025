@@ -109,7 +109,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td>Lecture: introduce OMAmer
    </td>
-   <td>Yannis Nevers
+   <td>Athina Gavriilidou
    </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td><strong>Module 2</strong>: Fast placement with OMAmer 
    </td>
-   <td>Yannis Nevers
+   <td>Athina Gavriilidou
    </td>
   </tr>
   <tr>
@@ -125,7 +125,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td>Go over results
    </td>
-   <td>Yannis Nevers
+   <td>Athina Gavriilidou
    </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td>Lecture: FastOMA
    </td>
-   <td>Sina Majidian
+   <td>Stefano Pascarelli
    </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td><strong>Module 3 part 1</strong>: FastOMA (launch it before lunch)
    </td>
-   <td>Sina Majidian
+   <td>Stefano Pascarelli
    </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td><strong>Module 3 part 2</strong>: FastOMA
    </td>
-   <td>Sina Majidian
+   <td>Stefano Pascarelli
    </td>
   </tr>
   <tr>
@@ -165,7 +165,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td>Go over results
    </td>
-   <td>Sina Majidian
+   <td>Stefano Pascarelli
    </td>
   </tr>
   <tr>
