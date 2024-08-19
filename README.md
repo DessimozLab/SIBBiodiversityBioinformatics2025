@@ -205,7 +205,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td>OMA Clinic
    </td>
-   <td>Natasha, Yannis, Christophe
+   <td>Natasha, Athina, Stefano, Christophe
    </td>
   </tr>
   <tr>
@@ -213,7 +213,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
    <td>Wrap up
    </td>
-   <td>Natasha, Yannis, Christophe
+   <td>Natasha, Athina, Stefano, Christophe
    </td>
   </tr>
 </table>
