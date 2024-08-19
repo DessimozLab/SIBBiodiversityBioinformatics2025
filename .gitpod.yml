@@ -9,7 +9,6 @@ tasks:
     source ${HOME}/.bashrc
     mamba create -n omacademy -c conda-forge python=3.9 -y
     mamba activate omacademy
-    mv /workspace/SIBBiodiversityBioinformatics2023 /workspace/SIBBiodiversityBioinformatics2024
     cd /workspace/SIBBiodiversityBioinformatics2024/Module3_FastOMA/working_dir/
     wget https://github.com/DessimozLab/FastOMA/archive/refs/heads/master.zip
     unzip master.zip
