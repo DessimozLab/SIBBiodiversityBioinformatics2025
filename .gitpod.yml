@@ -12,7 +12,7 @@ tasks:
     cd /workspace/SIBBiodiversityBioinformatics2024/Module3_FastOMA/working_dir/
     wget https://github.com/DessimozLab/FastOMA/archive/refs/heads/master.zip
     unzip master.zip
-    mv FastOMA-main FastOMA
+    mv FastOMA-master FastOMA
     pip install  ./FastOMA/
     cd /workspace/
     mamba install -c bioconda mafft -y 
