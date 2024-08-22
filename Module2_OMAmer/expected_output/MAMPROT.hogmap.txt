@@ -1,3 +1,10 @@
-qseqid	hogid	overlap	family-score	subfamily-score	qseqlen	subfamily-medianseqlen
-MP1	HOG:D0630083.1g.9c.31d	1.0	0.9705189607076256	0.929756161095818	143	142
-MP2	HOG:D0630583	1.0	0.9997833473540066	0.9997833473540066	128	154
+!omamer-version: 2.0.4
+!query-md5: 9d2f0f729ba503954904266c3d439f88
+!date-run: 2024-08-21T15:08:19.880165
+!db-path: omamer_databases/Metazoa.h5
+!db-info-source: OMA / All.Jul2023
+!db-info-root_level: Metazoa
+!db-info-database_hash: a2185416cf8596488c8a5bd6dcc61829
+qseqid	hogid	hoglevel	family_p	family_count	family_normcount	subfamily_score	subfamily_count	qseqlen	subfamily_medianseqlen	qseq_overlap
+MP1	HOG:D0630083.1g.9c.31d	Theria	858.4562422310757	133	0.9707657630997514	0.9298228277659865	53	143	143	1.0
+MP2	HOG:D0630583	Gnathostomata	1002.8955965418238	122	1.0	0.9999937195329319	122	128	155	1.0
