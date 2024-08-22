@@ -13,7 +13,7 @@ tasks:
     wget https://github.com/DessimozLab/FastOMA/archive/refs/heads/dev.zip
     unzip dev.zip
     mv FastOMA-dev FastOMA
-    pip install  ./FastOMA/
+    pip install  ./FastOMA[report]
     cd /workspace/
     mamba install -c bioconda mafft -y 
     mamba install -c bioconda fasttree -y
