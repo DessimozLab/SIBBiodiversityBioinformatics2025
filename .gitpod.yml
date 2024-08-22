@@ -10,9 +10,9 @@ tasks:
     mamba create -n omacademy -c conda-forge python=3.9 -y
     mamba activate omacademy
     cd /workspace/SIBBiodiversityBioinformatics2024/Module3_FastOMA/working_dir/
-    wget https://github.com/DessimozLab/FastOMA/archive/refs/heads/master.zip
-    unzip master.zip
-    mv FastOMA-main FastOMA
+    wget https://github.com/DessimozLab/FastOMA/archive/refs/heads/dev.zip
+    unzip dev.zip
+    mv FastOMA-dev FastOMA
     pip install  ./FastOMA/
     cd /workspace/
     mamba install -c bioconda mafft -y 
