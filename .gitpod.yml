@@ -36,7 +36,7 @@ tasks:
   command: |
     cp /workspace/.bashrc ${HOME}/
     source ${HOME}/.bashrc
-
+    mamba activate omacademy
 vscode:
   extensions:
     - anwar.papyrus-pdf
