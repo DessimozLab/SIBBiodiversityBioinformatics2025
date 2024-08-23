@@ -7,6 +7,7 @@ tasks:
     bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/conda && rm Mambaforge-$(uname)-$(uname -m).sh
     /workspace/conda/bin/mamba init bash
     source ${HOME}/.bashrc
+    cp ${HOME}/.bashrc /workspace/
     mamba create -n omacademy -c conda-forge python=3.9 -y
     mamba activate omacademy
     cd /workspace/SIBBiodiversityBioinformatics2024/Module3_FastOMA/working_dir/
@@ -33,6 +34,7 @@ tasks:
     mv Metazoa.h5 /workspace/SIBBiodiversityBioinformatics2024/Module2_OMAmer/working_dir/omamer_databases/
 
   command: |
+    cp /workspace/.bashrc ${HOME}/
     source ${HOME}/.bashrc
 
 vscode:
