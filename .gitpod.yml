@@ -3,8 +3,8 @@ image: gitpod/workspace-base
 tasks:
 - name: install all software and download databases
   init: |
-    curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
-    bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/conda && rm Mambaforge-$(uname)-$(uname -m).sh
+    curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+    bash Miniforge3-$(uname)-$(uname -m).sh -b -p /workspace/conda && rm Miniforge3-$(uname)-$(uname -m).sh
     /workspace/conda/bin/mamba init bash
     source ${HOME}/.bashrc
     cp ${HOME}/.bashrc /workspace/
