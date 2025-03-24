@@ -27,8 +27,8 @@ tasks:
     echo 'export PATH=$PATH:/workspace/SIBBiodiversityBioinformatics2024/Module4_SpeciesTrees/working_dir/f1000_PhylogeneticTree/' >> ${HOME}/.bashrc
     echo 'mamba activate omacademy' >> ${HOME}/.bashrc
     cd /workspace/
-    curl -L -O "https://omabrowser.org/All/Metazoa.h5"
-    curl -L -O "https://omabrowser.org/All/Saccharomyceta.h5"
+    curl -L -O "https://omabrowser.org/All.Jul2023/Metazoa.h5"
+    curl -L -O "https://omabrowser.org/All.Jul2023/Saccharomyceta.h5"
     cp Saccharomyceta.h5 /workspace/SIBBiodiversityBioinformatics2024/Module3_FastOMA/working_dir/in_folder/omamerdb.h5
     mv Saccharomyceta.h5 /workspace/SIBBiodiversityBioinformatics2024/Module2_OMAmer/working_dir/omamer_databases/
     mv Metazoa.h5 /workspace/SIBBiodiversityBioinformatics2024/Module2_OMAmer/working_dir/omamer_databases/
