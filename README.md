@@ -1,4 +1,4 @@
-## SIB Biodiversity Bioinformatics 2024
+## SIB Biodiversity Bioinformatics 2025
 
 
 ## Teachers
