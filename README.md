@@ -21,7 +21,7 @@ This course is centered around comparative genomics. After the course, you will 
 
 ## Course lectures
 
-The pdf for the slides of the course can be found [here](https://github.com/DessimozLab/SIBBiodiversityBioinformatics2024/blob/main/Biodiversity%20bioinformatics%202024.pdf).
+The pdf for the slides of the course can be found [here](https://github.com/DessimozLab/SIBBiodiversityBioinformatics2025/blob/main/Biodiversity%20bioinformatics%202024.pdf).
 
 ## The OMA Academy
 
@@ -40,9 +40,9 @@ Participants should have a fundamental knowledge of utilizing the command line o
 
 We will be mainly working on an [GitPod](https://gitpod.io/), an online integrated development environment (IDE) that allows users to write, edit, and run code directly in a web browser. GitPod is cloud-based, meaning that all software, code, and files needed for the course are stored and processed on remote servers; you will not need to install or configure anything locally.
 
-You can access the GitPod here: [https://gitpod.io/#https://github.com/DessimozLab/SIBBiodiversityBioinformatics2024](https://gitpod.io/#https://github.com/DessimozLab/SIBBiodiversityBioinformatics2024) 
+You can access the GitPod here: [https://gitpod.io/#https://github.com/DessimozLab/SIBBiodiversityBioinformatics2025](https://gitpod.io/#https://github.com/DessimozLab/SIBBiodiversityBioinformatics2025) 
 
-Participants need to sign up for a GitPod account via Github and/or LinkedIn to access 50 hours per month for free, which is ample time to complete the exercises. After logging in, create a new workspace by choosing SIBBiodiverstyGenomics2024, Browser Editor, and Large configuration (8 cores, 16 GB RAM, 50 GB storage). 
+Participants need to sign up for a GitPod account via Github and/or LinkedIn to access 50 hours per month for free, which is ample time to complete the exercises. After logging in, create a new workspace by choosing SIBBiodiverstyGenomics2025, Browser Editor, and Large configuration (8 cores, 16 GB RAM, 50 GB storage). 
 
 Notes: 
 GitPod might ask you for permission when it comes to pasting in GitPod terminal, You can click on Allow on the top left corner in Google Chrome. The Safari and Firefox browsers are not recommended. 
