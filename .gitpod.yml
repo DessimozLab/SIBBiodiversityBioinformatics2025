@@ -5,7 +5,7 @@ tasks:
   init: |
     curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
     bash Miniforge3-$(uname)-$(uname -m).sh -b -p /workspace/conda && rm Miniforge3-$(uname)-$(uname -m).sh
-    /workspace/conda/bin/mamba init bash
+    /workspace/conda/bin/mamba shell init
     source ${HOME}/.bashrc
     cp ${HOME}/.bashrc /workspace/
     mamba create -n omacademy -c conda-forge python=3.9 -y
