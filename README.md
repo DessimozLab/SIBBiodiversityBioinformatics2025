@@ -84,7 +84,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
   <tr>
    <td>09:45 - 10:25
    </td>
-   <td><strong>Module 1: genes, groups, and genomes in the OMA Browser</strong>
+   <td><strong>Module 1: The OMA Browser</strong>
    </td>
    <td>Natasha Glover
    </td>
@@ -100,7 +100,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
   <tr>
    <td>11:25 - 11:35
    </td>
-   <td>Lecture: Introduction to OMAmer
+   <td>Lecture: Fast placement into hierarchical orthologous groups with OMAmer
    </td>
    <td>Nikolai Romashchenko
    </td>
@@ -108,7 +108,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
   <tr>
    <td>11:35 - 12:05
    </td>
-   <td><strong>Module 2: Fast placement with OMAmer </strong>
+   <td><strong>Module 2: OMAmer </strong>
    </td>
    <td>Nikolai Romashchenko
    </td>
@@ -124,7 +124,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
   <tr>
    <td>13:30 - 13:40
    </td>
-   <td>Lecture: OMArk 
+   <td>Lecture: Protein-coding gene assessment with OMArk 
    </td>
    <td>Natasha Glover
    </td>
@@ -148,7 +148,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
   <tr>
    <td>14:15 - 14:25
    </td>
-   <td>Lecture: FastOMA 
+   <td>Lecture: Orthology inference with FastOMA 
    </td>
    <td>Stefano Pascarelli
    </td> 
