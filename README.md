@@ -5,8 +5,8 @@
 
 * [Natasha Glover](https://lab.dessimoz.org/people/natasha_glover)
 * [Stefano Pascarelli](mailto:Stefano.Pascarelli@unil.ch)
-* [Athina Gavriilidou](mailto:athina.gavriilidou@unil.ch)
-* [Christophe Dessimoz](https://lab.dessimoz.org/people/yannis_nevers)
+* [Nikolai Romashchenko](mailto:nikolai.romashchenko@unil.ch)
+* [Christophe Dessimoz](https://www.sib.swiss/christophe-dessimoz-natasha-glover-group)
 
 
 ## Learning outcomes
@@ -16,12 +16,13 @@ This course is centered around comparative genomics. After the course, you will 
 * Define orthology, paralogy and their subtypes
 * Retrieve orthology information from the OMA database
 * Map sequences quickly to their Hierarchical Orthologous Groups
+* Perform gene annotation quality control with OMArk
 * Infer orthologs on custom genomes using the FastOMA pipeline
 * Construct and interpret phylogenetic species trees using OMA data
 
 ## Course lectures
 
-The pdf for the slides of the course can be found [here](https://github.com/DessimozLab/SIBBiodiversityBioinformatics2025/blob/main/Biodiversity%20bioinformatics%202024.pdf).
+The pdf for the slides of the course can be found [here] (https://github.com/DessimozLab/SIBBiodiversityBioinformatics2025/blob/main/Biodiversity%20bioinformatics%202024.pdf). ***TO DO SUNDAY NIGHT***
 
 ## The OMA Academy
 
@@ -42,17 +43,17 @@ We will be mainly working on an [GitPod](https://gitpod.io/), an online integrat
 
 You can access the GitPod here: [https://gitpod.io/#https://github.com/DessimozLab/SIBBiodiversityBioinformatics2025](https://gitpod.io/#https://github.com/DessimozLab/SIBBiodiversityBioinformatics2025) 
 
-Participants need to sign up for a GitPod account via Github and/or LinkedIn to access 50 hours per month for free, which is ample time to complete the exercises. After logging in, create a new workspace by choosing SIBBiodiverstyGenomics2025, Browser Editor, and Large configuration (8 cores, 16 GB RAM, 50 GB storage). 
+Participants need to sign up for a GitPod account via Github and/or LinkedIn to access 10 hours per month for free, which is enough time to complete the exercises. After logging in, create a new workspace by choosing SIBBiodiverstyGenomics2025, Browser Editor, and Large configuration (8 cores, 16 GB RAM, 50 GB storage). 
 
 Notes: 
-GitPod might ask you for permission when it comes to pasting in GitPod terminal, You can click on Allow on the top left corner in Google Chrome. The Safari and Firefox browsers are not recommended. 
+GitPod might ask you for permission when it comes to pasting in GitPod terminal, you can click on Allow on the top left corner in Google Chrome. The Safari and Firefox browsers are not recommended. 
 You can click on OK if you see a box about changes in the git repository.
 
 If you mistakenly close the browser window, you can go to the GitPod Dashboard and enter your workspace again.
 As each user has limited CPU hours, please make sure that you stop the workspace, once you finish the analysis.   
 
 
-## Schedule Aug 26 2024 
+## Schedule Aug 26 2025
 
 
 <table>
@@ -65,7 +66,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
   </tr>
   <tr>
-   <td>9:00-9:30
+   <td>09:00  - 09:15
    </td>
    <td>Welcome, Introductions
    </td>
@@ -73,7 +74,7 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
   </tr>
   <tr>
-   <td>9:30-10:00
+   <td>09:15 - 09:45
    </td>
    <td>Lecture: Overview, objectives, motivation, concept of orthologs, HOGs
    </td>
@@ -81,15 +82,15 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
   </tr>
   <tr>
-   <td>10:00-10:45
+   <td>09:45 - 10:25
    </td>
-   <td><strong>Module 1</strong>: genes, groups, and genomes in the OMA Browser 
+   <td><strong>Module 1: genes, groups, and genomes in the OMA Browser</strong>
    </td>
    <td>Natasha Glover
    </td>
   </tr>
   <tr>
-   <td>10:45 - 11:15
+   <td>10:25 - 10:45
    </td>
    <td>Coffee break
    </td>
@@ -97,55 +98,23 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
   </tr>
   <tr>
-   <td>11:15-11:25
+   <td>11:25 - 11:35
    </td>
-   <td>Go over results
+   <td>Lecture: Introduction to OMAmer
    </td>
-   <td>Natasha Glover
-   </td>
-  </tr>
-  <tr>
-   <td>11:25 - 11:30
-   </td>
-   <td>Lecture: introduce OMAmer
-   </td>
-   <td>Athina Gavriilidou
+   <td>Nikolai Romashchenko
    </td>
   </tr>
   <tr>
-   <td>11:30 - 11:55
+   <td>11:35 - 12:05
    </td>
-   <td><strong>Module 2</strong>: Fast placement with OMAmer 
+   <td><strong>Module 2: Fast placement with OMAmer </strong>
    </td>
-   <td>Athina Gavriilidou
-   </td>
-  </tr>
-  <tr>
-   <td>11:55-12:00
-   </td>
-   <td>Go over results
-   </td>
-   <td>Athina Gavriilidou
+   <td>Nikolai Romashchenko
    </td>
   </tr>
   <tr>
-   <td>12:00-12:10
-   </td>
-   <td>Lecture: FastOMA
-   </td>
-   <td>Stefano Pascarelli
-   </td>
-  </tr>
-  <tr>
-   <td>12:10-12:30
-   </td>
-   <td><strong>Module 3 part 1</strong>: FastOMA (launch it before lunch)
-   </td>
-   <td>Stefano Pascarelli
-   </td>
-  </tr>
-  <tr>
-   <td>12:30-13:30
+   <td>12:15 - 13:30
    </td>
    <td>Lunch
    </td>
@@ -153,23 +122,55 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
   </tr>
   <tr>
-   <td>13:30-14:00 
+   <td>13:30 - 13:40
    </td>
-   <td><strong>Module 3 part 2</strong>: FastOMA
+   <td>Lecture: OMArk 
+   </td>
+   <td>Natasha Glover
+   </td>
+  </tr>
+  <tr>
+   <td>13:40 - 14:10 
+   </td>
+   <td><strong>Module 3: OMArk</strong>
+   </td>
+   <td>Natasha Glover
+   </td>
+  </tr>
+  <tr>
+   <td>14:10 - 14:15
+   </td>
+   <td>Quick break
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>14:15 - 14:25
+   </td>
+   <td>Lecture: FastOMA 
+   </td>
+   <td>Stefano Pascarelli
+   </td> 
+  </tr>
+  <tr>
+   <td>14:25 - 15:25
+   </td>
+   <td><strong>Module 4: FastOMA</strong> 
    </td>
    <td>Stefano Pascarelli
    </td>
   </tr>
   <tr>
-   <td>14:00-14:15
+   <td>15:25 - 15:45
    </td>
-   <td>Go over results
+   <td>Coffee break
    </td>
-   <td>Stefano Pascarelli
+   <td>
    </td>
   </tr>
   <tr>
-   <td>14:15-14:30
+   <td>15:45 - 16:00
    </td>
    <td>Lecture: Gene trees and species trees
    </td>
@@ -177,43 +178,19 @@ As each user has limited CPU hours, please make sure that you stop the workspace
    </td>
   </tr>
   <tr>
-   <td>14:30-15:00
+   <td>16:00 - 16:45
    </td>
-   <td>Coffee Break 
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>15:00-16:00
-   </td>
-   <td><strong>Module 4</strong>: Building Species Trees 
+   <td><strong>Module 5: Building species trees</strong>
    </td>
    <td>Christophe Dessimoz
    </td>
   </tr>
-  <tr>
-   <td>16:00-16:15
-   </td>
-   <td>Go over results
-   </td>
-   <td>Christophe Dessimoz
-   </td>
-  </tr>
-  <tr>
-   <td>16:15-16:45
-   </td>
-   <td>OMA Clinic
-   </td>
-   <td>Natasha, Athina, Stefano, Christophe
-   </td>
-  </tr>
-  <tr>
-   <td>16:45-17:00
+    <tr>
+   <td>16:45 - 17:00
    </td>
    <td>Wrap up
    </td>
-   <td>Natasha, Athina, Stefano, Christophe
+   <td>Christophe Dessimoz
    </td>
   </tr>
 </table>
