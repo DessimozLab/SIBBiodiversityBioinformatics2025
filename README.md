@@ -57,7 +57,7 @@ conda activate omacademy
 As each user has limited CPU hours, please make sure that you stop the workspace, once you finish the analysis.   
 
 
-## Schedule Aug 26 2025
+## Schedule Aug 25 2025
 
 
 <table>
