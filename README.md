@@ -49,7 +49,11 @@ Notes:
 GitPod might ask you for permission when it comes to pasting in GitPod terminal, you can click on Allow on the top left corner in Google Chrome. The Safari and Firefox browsers are not recommended. 
 You can click on OK if you see a box about changes in the git repository.
 
-If you mistakenly close the browser window, you can go to the GitPod Dashboard and enter your workspace again.
+If you mistakenly close the browser window, you can go to the GitPod Dashboard and enter your workspace again. You might need to reactivate your conda environment with the following commands:
+```
+source /workspace/conda/bin/activate
+conda activate omacademy
+```
 As each user has limited CPU hours, please make sure that you stop the workspace, once you finish the analysis.   
 
 
